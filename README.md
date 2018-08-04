@@ -1,2 +1,3 @@
 # TheTrips.github.io
-JDNASJK
+
+Jelou mamigos
